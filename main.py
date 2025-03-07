@@ -68,7 +68,6 @@ def main():
         ccb = input("enter the A value of RGB: ")
         codeColor(int(ccr),int(ccg),int(ccb),1)
   
-   
 if __name__ == '__main__':
     main()
   main()
